@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bez-portfolio./static/css/main.4738c7c8.chunk.css",
+    "main.js": "/bez-portfolio./static/js/main.4a16921e.chunk.js",
+    "main.js.map": "/bez-portfolio./static/js/main.4a16921e.chunk.js.map",
+    "runtime-main.js": "/bez-portfolio./static/js/runtime-main.c3db8322.js",
+    "runtime-main.js.map": "/bez-portfolio./static/js/runtime-main.c3db8322.js.map",
+    "static/js/2.4fd0993b.chunk.js": "/bez-portfolio./static/js/2.4fd0993b.chunk.js",
+    "static/js/2.4fd0993b.chunk.js.map": "/bez-portfolio./static/js/2.4fd0993b.chunk.js.map",
+    "index.html": "/bez-portfolio./index.html",
+    "precache-manifest.88bc3b5bb5c887a18d8fca117351ca72.js": "/bez-portfolio./precache-manifest.88bc3b5bb5c887a18d8fca117351ca72.js",
+    "service-worker.js": "/bez-portfolio./service-worker.js",
+    "static/css/main.4738c7c8.chunk.css.map": "/bez-portfolio./static/css/main.4738c7c8.chunk.css.map",
+    "static/js/2.4fd0993b.chunk.js.LICENSE.txt": "/bez-portfolio./static/js/2.4fd0993b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/bez-portfolio./static/media/bg_img1.23620b2d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3db8322.js",
+    "static/js/2.4fd0993b.chunk.js",
+    "static/css/main.4738c7c8.chunk.css",
+    "static/js/main.4a16921e.chunk.js"
+  ]
+}
